@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="第 1 页" id="XNdrPRAzqTejw9C0-F5l">
-    <mxGraphModel dx="3267" dy="2461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2555" dy="2084" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -75,25 +75,25 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PyTM0OaPz90ZbL3KX4yQ-5" value="STL Decomposition" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="PyTM0OaPz90ZbL3KX4yQ-5" value="STL decomposition" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="190" y="390" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PyTM0OaPz90ZbL3KX4yQ-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="PyTM0OaPz90ZbL3KX4yQ-29" target="PyTM0OaPz90ZbL3KX4yQ-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PyTM0OaPz90ZbL3KX4yQ-29" value="Transformer Block" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="PyTM0OaPz90ZbL3KX4yQ-29" value="Transformer block" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="77.5" y="230" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PyTM0OaPz90ZbL3KX4yQ-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="PyTM0OaPz90ZbL3KX4yQ-30" target="PyTM0OaPz90ZbL3KX4yQ-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PyTM0OaPz90ZbL3KX4yQ-30" value="Transformer Block" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="PyTM0OaPz90ZbL3KX4yQ-30" value="Transformer block" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="195" y="230" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PyTM0OaPz90ZbL3KX4yQ-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="PyTM0OaPz90ZbL3KX4yQ-31" target="PyTM0OaPz90ZbL3KX4yQ-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PyTM0OaPz90ZbL3KX4yQ-31" value="Transformer Block" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="PyTM0OaPz90ZbL3KX4yQ-31" value="Transformer block" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="315" y="230" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PyTM0OaPz90ZbL3KX4yQ-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="PyTM0OaPz90ZbL3KX4yQ-32" target="PyTM0OaPz90ZbL3KX4yQ-35">
@@ -114,7 +114,7 @@
         <mxCell id="PyTM0OaPz90ZbL3KX4yQ-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="PyTM0OaPz90ZbL3KX4yQ-33" target="PyTM0OaPz90ZbL3KX4yQ-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PyTM0OaPz90ZbL3KX4yQ-33" value="Density Ratio Change Point Detection" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+        <mxCell id="PyTM0OaPz90ZbL3KX4yQ-33" value="Density ratio change point detection" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="542" y="455" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PyTM0OaPz90ZbL3KX4yQ-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PyTM0OaPz90ZbL3KX4yQ-34" target="PyTM0OaPz90ZbL3KX4yQ-44">
@@ -126,7 +126,7 @@
         <mxCell id="PyTM0OaPz90ZbL3KX4yQ-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="PyTM0OaPz90ZbL3KX4yQ-35" target="PyTM0OaPz90ZbL3KX4yQ-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PyTM0OaPz90ZbL3KX4yQ-35" value="Feed Forward" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="PyTM0OaPz90ZbL3KX4yQ-35" value="Feed forward" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="190" y="105" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PyTM0OaPz90ZbL3KX4yQ-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="PyTM0OaPz90ZbL3KX4yQ-36">
@@ -134,7 +134,7 @@
             <mxPoint x="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PyTM0OaPz90ZbL3KX4yQ-68" value="To Next Diffusion Layer" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PyTM0OaPz90ZbL3KX4yQ-67">
+        <mxCell id="PyTM0OaPz90ZbL3KX4yQ-68" value="To next diffusion reconstruction layer" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PyTM0OaPz90ZbL3KX4yQ-67">
           <mxGeometry x="-0.0554" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -294,13 +294,13 @@
         <mxCell id="PyTM0OaPz90ZbL3KX4yQ-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="PyTM0OaPz90ZbL3KX4yQ-46" target="PyTM0OaPz90ZbL3KX4yQ-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PyTM0OaPz90ZbL3KX4yQ-46" value="dynamic threshold" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+        <mxCell id="PyTM0OaPz90ZbL3KX4yQ-46" value="Dynamic threshold" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="765" y="227" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PyTM0OaPz90ZbL3KX4yQ-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="PyTM0OaPz90ZbL3KX4yQ-47" target="PyTM0OaPz90ZbL3KX4yQ-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PyTM0OaPz90ZbL3KX4yQ-47" value="entropy weight method" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="PyTM0OaPz90ZbL3KX4yQ-47" value="Entropy weight method" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="752.5" y="430" width="145" height="32" as="geometry" />
         </mxCell>
         <mxCell id="PyTM0OaPz90ZbL3KX4yQ-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="PyTM0OaPz90ZbL3KX4yQ-48" target="PyTM0OaPz90ZbL3KX4yQ-88">
@@ -354,6 +354,9 @@
         </mxCell>
         <mxCell id="PyTM0OaPz90ZbL3KX4yQ-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="PyTM0OaPz90ZbL3KX4yQ-88" target="PyTM0OaPz90ZbL3KX4yQ-46">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PyTM0OaPz90ZbL3KX4yQ-97" value="Diffusion reconstruction layer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="10" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
